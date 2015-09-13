@@ -1,0 +1,4 @@
+LIBRARY SimplePlugin1
+EXPORTS
+	getObject @1
+	
